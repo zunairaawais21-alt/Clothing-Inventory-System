@@ -45,7 +45,7 @@ Platform: Windows (utilizes windows.h and conio.h)
 Clone the repository:
 
 Bash
-git clone https://github.com/YourUsername/YourRepoName.git
+git clone https://github.com/zunairaawais21-alt/Clothing-Inventory-System.git
 Compile: Use a C++ compiler (like MinGW/GCC or Visual Studio).
 
 Bash
