@@ -33,6 +33,16 @@ Sorting Algorithm: Uses Selection Sort to organize inventory based on unit avail
 Security: Password-protected login system with role-based access control (Admin vs. User).
 
 UI/UX: Enhanced console experience using color-coded text and formatted tables.
+🔑Test Credentials:
+To explore the system quickly, you can use these default accounts:
+
+Admin Access: * Username: ali
+
+Password: abc12
+
+User Access: * Username: noor
+
+Password: nf67
 
 🛠️ Built With
 Language: C++
