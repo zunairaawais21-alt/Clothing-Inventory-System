@@ -1,0 +1,9 @@
+ali,abc12,admin,
+noor,nf67,user,t-shirt
+zunaira,123,user,
+;
+shoes,sneakers,20,6,15,2,150
+jacket,leather-jacket,30,10,20,3,100
+shirt,Polo-Shirt,40,15,50,5,25
+shirt,t-shirt,50,21,80,8,30
+pants,cargo-pants,60,31,25,5,45
